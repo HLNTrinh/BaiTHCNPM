@@ -1,3 +1,4 @@
+```
 my-project/
 ├── 📁 api/                          # Backend
 │   ├── 📄 server.js                 # Điểm vào chính
@@ -21,3 +22,4 @@ my-project/
 │   └── 🐳 Dockerfile
 │
 └── 🐳 docker-compose.yml
+```
